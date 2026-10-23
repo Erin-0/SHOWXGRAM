@@ -1,0 +1,21 @@
+{
+  "name": "SHOP×GRAM — Founder's Pocket",
+  "short_name": "SHOP×GRAM",
+  "description": "Mobile-first social-commerce tycoon sim. Buy wholesale, post listings, run ads and creators, ship orders, hire staff, take loans, invest in stocks, expand globally, franchise and prestige. Installable, offline-capable, no AI — everything is procedural and rule-based.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#EFEAD9",
+  "theme_color": "#EFEAD9",
+  "categories": ["games", "entertainment"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
